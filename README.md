@@ -4,9 +4,8 @@
 
 ###
 
-<p align="left">Curso: Análise e Desenvolvimento de Sistemas<br>Full Stack Developer<br>Tecnologias que domino:<br>HTML, CSS, JavaScript</p>
+<p align="left">Curso: Análise e Desenvolvimento de Sistemas<br>Full Stack Developer<br>
 
-###
 
 <h2 align="left">TECHS</h2>
 
