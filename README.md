@@ -1,5 +1,5 @@
 # 💻 About Me:
-<br>Me chamo Jardel Almeida e atualmente atuo como desenvolvedor full stack.<br> <br>- 🧠 Em constante aprendizado e evolução na área de tecnologia  <br>- 📚 Cursando Análise e Desenvolvimento de Sistemas  <br>- ⚡ Interesse especial por soluções simples e eficientes<br>
+<br>Me chamo Jardel Almeida e atualmente atuo como desenvolvedor full stack.<br> <br>- 🧠 Em constante aprendizado e evolução na área de tecnologia.  <br>- 📚 Cursando Análise e Desenvolvimento de Sistemas.  <br>- ⚡ Interesse especial por soluções eficientes. <br>
 
 
 ## 🌐 Socials:
